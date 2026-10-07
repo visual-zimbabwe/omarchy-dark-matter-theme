@@ -114,4 +114,4 @@ omarchy theme set dark-matter
 
 ## License
 
-[MIT](LICENSE). Copyright (c) 2026 Jean Marie Uwimana.
+[MIT](LICENSE). Copyright (c) 2026 visual-zimbabwe.
