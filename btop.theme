@@ -1,0 +1,71 @@
+# Dark Matter: Btop Theme
+# Pitch-black base with multi-tier obsidian surfaces and stellar gradient spectrums.
+
+theme[main_bg]="#000000"
+theme[main_fg]="#ECE6D8"
+theme[title]="#ECE6D8"
+theme[hi_fg]="#C9A050"
+theme[selected_bg]="#26231C"
+theme[selected_fg]="#C9A050"
+theme[inactive_fg]="#5C5648"
+theme[graph_text]="#FAF7EE"
+theme[meter_bg]="#14120E"
+theme[proc_misc]="#FAF7EE"
+
+# Box outlines
+theme[cpu_box]="#A872D1"
+theme[mem_box]="#7EBA68"
+theme[net_box]="#E05A47"
+theme[proc_box]="#C9A050"
+theme[div_line]="#38342A"
+
+# Temperature graph (Aurora Green -> Corona Yellow -> Supernova Red)
+theme[temp_start]="#7EBA68"
+theme[temp_mid]="#E5B842"
+theme[temp_end]="#E05A47"
+
+# CPU graph (Nebula Cyan -> Deep Space Azure -> Gravitational Violet)
+theme[cpu_start]="#4EB8BA"
+theme[cpu_mid]="#5D93B8"
+theme[cpu_end]="#A872D1"
+
+# Memory & Disk meters
+theme[free_start]="#A872D1"
+theme[free_mid]="#5D93B8"
+theme[free_end]="#4EB8BA"
+
+theme[cached_start]="#5D93B8"
+theme[cached_mid]="#4EB8BA"
+theme[cached_end]="#A872D1"
+
+theme[available_start]="#E5B842"
+theme[available_mid]="#E05A47"
+theme[available_end]="#E05A47"
+
+theme[used_start]="#7EBA68"
+theme[used_mid]="#4EB8BA"
+theme[used_end]="#5D93B8"
+
+# Network I/O
+theme[download_start]="#E5B842"
+theme[download_mid]="#E05A47"
+theme[download_end]="#E05A47"
+
+theme[upload_start]="#7EBA68"
+theme[upload_mid]="#4EB8BA"
+theme[upload_end]="#5D93B8"
+
+# Process gradient
+theme[process_start]="#4EB8BA"
+theme[process_mid]="#5D93B8"
+theme[process_end]="#A872D1"
+
+# Graph gradient spectrum
+theme[gradient_color_0]="#000000"
+theme[gradient_color_1]="#0A0906"
+theme[gradient_color_2]="#14120E"
+theme[gradient_color_3]="#26231C"
+theme[gradient_color_4]="#5C5648"
+theme[gradient_color_5]="#7A7362"
+theme[gradient_color_6]="#ECE6D8"
+theme[gradient_color_7]="#FFFFFF"
